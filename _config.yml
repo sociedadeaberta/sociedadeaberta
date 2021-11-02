@@ -12,6 +12,15 @@ facebook_username:  sdadeaberta
 instagram_username:  
 linkedin_username:
 
+#seo-tag
+twitter:
+  username: sdadeaberta
+  card: summary
+logo: /img/bg-index.jpg
+defaults:
+  values:
+    image: /img/bg-index.jpg
+
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-147987690-1 # out your google-analytics code
 
