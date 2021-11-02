@@ -41,7 +41,7 @@ pagination:
   enabled: true
   per_page: 5
   permalink: '/pagina/:num/'
-  title: ':title &middot; :num de :max'
+  title: ':title - :num de :max'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
@@ -56,7 +56,7 @@ pagination:
 
 #true = gerar páginas de cada autor
 autopages:
-  enabled: true
+  enabled: false
   collections:
     enabled: false
   tags:

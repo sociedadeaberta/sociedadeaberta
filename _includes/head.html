@@ -4,8 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>
-    {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
-    {% else %}{{ site.title | escape }}{% endif %}    
+    {% if page.title %}{{ page.title | escape }}{% endif %}    
   </title>  
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
@@ -33,6 +32,7 @@
   <meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">  
   
-  {% seo %}
-  
+  <meta name="twitter:image" content="/img/logo.png" />
+  {% seo title=false %}
+
 </head>
