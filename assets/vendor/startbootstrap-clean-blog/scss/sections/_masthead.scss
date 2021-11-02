@@ -1,0 +1,98 @@
+// Styling for the masthead
+header.masthead {
+    // TIP: Background images are set within the HTML using inline CSS!
+    margin-bottom: 50px;
+    background: no-repeat center center;
+    background-color: $gray-600;
+    background-attachment: scroll;
+    position: relative;
+    background-size: cover;
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: $gray-900;
+        opacity: 0.5;
+    }
+
+    .page-heading,
+    .post-heading,
+    .site-heading {
+        padding: 40px;
+        color: $light;
+
+        @media only screen and (min-width: 768px) {
+            padding: 60px 0;
+        }
+    }
+
+    .page-heading,
+    .site-heading {
+        text-align: center;
+
+        h1 {
+            font-size: $h1-font-size;
+            margin-top: 80px;            
+        }
+
+        .subheading {
+            font-size: $h2-font-size;
+            font-weight: $font-weight-lighter;
+            line-height: $headings-line-height;
+            display: block;
+            margin: 10px 0 0;
+            font-family: $headings-font-family;
+        }
+
+        @media only screen and (min-width: 768px) {
+            h1 {
+                font-size: $h1-font-size*1.2;
+                margin-top: 100px;
+            }
+        }
+    }
+
+    .post-heading {
+        h1 {
+            font-size: $h1-font-size;            
+            margin-top: 80px;
+        }
+
+        .meta,
+        .subheading {
+            line-height: 1.2;
+            display: block;
+        }
+
+        .subheading {
+            font-size: $h2-font-size;
+            font-weight: $headings-font-weight;
+            margin: 10px 0 30px;
+            font-family: $headings-font-family;
+        }
+
+        .meta {
+            font-size: $font-size-base;
+            font-weight: $font-weight-lighter;            
+            font-family: $font-family-base;
+
+            a {
+                color: $light;
+            }
+        }
+
+        @media only screen and (min-width: 768px) {
+            h1 {
+                font-size: $h1-font-size*1.2;                
+                margin-top: 100px;
+            }
+
+            .subheading {
+                font-size: $h2-font-size;
+            }
+        }
+    }    
+}

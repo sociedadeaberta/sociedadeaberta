@@ -1,0 +1,56 @@
+---
+layout: post
+title: "A greve dos caminhoneiros e uma aula de Brasil"
+date: "2018-05-25"
+author: "Giacomo de Pellegrini"
+categories:  
+  - "Giacomo de Pellegrini"
+tags: 
+  - "economia"
+  - "greve"
+  - "politica"
+---
+
+O Brasil ficou refém dos caminhoneiros. Eles resolveram parar e, quando eles param, quase tudo para. Tem-se início o desabastecimento de produtos, sendo o principal deles o combustível. Sem combustível ninguém faz nada e o caos se instala. Todo mundo perde. Mas como chegamos novamente a esse ponto?
+
+O modal brasileiro mais utilizado para transporte de cargas no país é o rodoviário, algo em torno de 60%. Isso causa grande dependência de uma classe organizada como os caminhoneiros. Também existe uma maior dependência de petróleo, já que se trata do modal mais ineficiente comparado aos demais. Outros modais, como o ferroviário e portuário, são verdadeiros focos do nosso atraso.
+
+O motivo é a falta total de investimento. Particulares não investem porque o Estado interfere em tudo, desde o tempo interminável de burocracia para execução das obras até a taxa de retorno do investimento. Mas o pior é que, a qualquer momento, o governo pode mudar as regras e também fazê-los reféns. Isso quando não resolve tomar o negócio pra si. Para termos uma ideia, o investimento estatal em ferrovias durante todo o ano de 2017 não alcançou R$ 800 milhões. Valor menor que o do estádio Mané Garrincha, lugar onde você vibrou muito na Copa e cuja conta paga agora pela inutilidade e o abandono.
+
+Como o governo arrecada aproximadamente R$ 2 **trilhões** por ano em impostos, tem-se a expectativa de que ao menos algo de infraestrutura seja planejado e feito. Isso não acontece: o investimento executado em todos os modais de transporte no ano de 2017 foi de R$ 15 bilhões. Em perspectiva, as Olimpíadas no Rio custaram mais de R$ 40 bilhões. Você também chorou e vibrou muito com nossos heróis; agora chora de novo com seu elevado custo de vida.
+
+Quando se fala em investimento executado, estão incluídos na conta a corrupção, os custos elevados e a ineficiência. O que você assiste todos os dias na operação Lava-Jato tem relação direta com a infraestrutura. Então o resultado é que você recebe quase nada mesmo.
+
+A outra galinha dos ovos de ouro da política é a Petrobras, o monopólio de fato do setor dentro do simulacro de concorrência. Tudo passa pela Petrobras. A Petrobras é uma empresa controlada pelo governo. A sociedade brasileira, através da União, tem mais da metade dela e nenhuma vantagem, ao contrário dos políticos. Esqueça o que te disseram: o petróleo não é nosso.
+
+Nos governos petistas, não fomos só apresentados ao maior caso de corrupção na empresa, mas também ao projeto mais megalomaníaco: o pré-sal. O governo petista não só elevou para níveis alarmantes a dívida da empresa, como a utilizou para controle de preços e camuflagem da inflação. A conta estourou, a conta sempre estoura. A empresa, para sobreviver, teve que retornar ao mundo real, vender alguns ativos e acompanhar o preço internacional. Obviamente os preços dos combustíveis iriam subir.
+
+Quando você vai até a bomba no posto para abastecer, o Estado é seu maior parceiro. Ele recolhe quase a metade do que você colocou no tanque. Não culpe o dono do posto. De todos que te roubam, o Estado faz a maior parte do serviço e sequer está lá trabalhando e ouvindo as reclamações.
+
+O maior imposto dessa equação é o ICMS - Imposto Sobre Circulação de Mercadorias e Serviços. Ele é a principal fonte de receita para a manutenção de Estados falidos, já que a maioria opera em déficit. Os déficits estaduais e do governo federal têm como maior parcela do problema a folha de pagamento de funcionários públicos (inclua aí as aposentadorias), já que a margem de investimento é baixíssima.
+
+O Brasil não está endividado porque investe muito, está endividado porque, quando investe, investe errado e precisa manter muitos privilégios. Se você pede mais Estado, indiretamente está pedindo mais privilégios, quando não diretamente.
+
+Ontem, 24 de maio de 2018, o governo anunciou na televisão sua solução para o fim da greve dos caminhoneiros. Eles venceram. O diesel será subvencionado pelos cofres públicos. Basicamente funcionará assim: o governo controlará os preços do diesel. É o que o PT fez, quase quebrando a Petrobras, mas agora o MDB pretende fazer, quase quebrando o país. Vai reduzir o preço do diesel para o consumidor, enquanto tira dos cofres públicos para pagar a diferença do preço à Petrobras.
+
+Um repórter do SBT perguntou durante o anúncio: “Mas e o preço da gasolina? A população que faz uso da gasolina precisará também cruzar os braços como os caminhoneiros para serem atendidos?” A resposta deu a entender que sim: o ministro Eliseu Padilha, do MDB, disse que ali se tratava da pauta dos caminhoneiros, então os privilégios são deles. Esse é um problema recorrente no Brasil. A sociedade em geral, o trabalhador comum, não constitui um bloco organizado, e não tem como ser assim. As pessoas precisam trabalhar, precisam sobreviver. Inclusive, metade dos trabalhadores são informais.
+
+Setores organizados com algum poder de barganha conseguem sempre capturar o Estado e serão de alguma forma atendidos. A maior parte da sociedade pagará pelos privilégios da menor parte. É assim que funciona o Estado. Ele é o principal mecanismo da desigualdade.
+
+Esse caso da greve dos caminhoneiros é uma aula de Brasil. Proporciona um recorte oportuno para explicar como funciona o Estado, como ele promove desigualdade e atrapalha sinais saudáveis do mercado.
+
+Acompanhe com atenção. No primeiro governo Dilma, houve um estímulo artificial para a compra de caminhões através de subsídio estatal do BNDES. Era o Programa de Sustentação do Investimento (PSI). Isso ocorreu também em outros setores escolhidos a dedo. Normalmente, a escolha está de acordo com o retorno para financiamento de campanhas e propinas. As conexões corporativistas. Houve uma corrida generalizada para compra de caminhões. Esse estímulo artificial promoveu uma explosão na oferta de fretes. Oferta essa que não existiria em condições normais de mercado.
+
+Com uma maior oferta de fretes, temos uma concorrência artificial e consequentemente uma redução no ganho dos caminhoneiros, já que a demanda por fretes não aumentou na mesma medida. Conforme o custo para operar o frete vai subindo – o que inclui combustível, pedágios, manutenção – o negócio vai se tornando inviável. A conta estoura e temos a greve. Para resolver a greve o governo volta ao controle de preços, e agora a conta do governo estoura. É assim que o ciclo se perpetua. Quando a última conta estoura, quem paga é a sociedade.
+
+O Estado sempre será incapaz de planejar o mercado. Ele não detém todas as informações, está alheio a maioria dos sinais. Ele pensa o curto prazo e prejudica o longo prazo.
+
+Em geral, as pessoas não compreendem o encadeamento lógico dos acontecimentos. Entre as causas iniciais e as consequências futuras pode-se levar anos. O sentimento imediato é de que as causas são mais próximas, como a ganância do dono do posto. O dono do posto, via de regra, só repassa os custos, a margem continua a mesma. Também existe o sentimento fantasioso, como "os EUA querem o nosso petróleo", mas esses são casos psiquiátricos.
+
+O sentimento correto - o governo está nos roubando - raramente emerge. Quando emerge, espera-se que o próprio governo resolva o problema. E, de preferência, que seja a turma do governo passado, quando tudo parecia ótimo. Um verdadeiro ciclo da ignorância.
+
+Não existe fórmula mágica. Para se construir coisas é preciso capital. Para se ter capital é preciso ser mais produtivo, fazer mais com menos. Você não pode esperar produtividade do Estado. O Estado apenas retira riqueza da sociedade e distribui privilégios. Nesse processo, ele se endivida e retira ainda mais da sociedade. O Estado cria fardos para o futuro. Estabelece expectativas irreais de curto prazo.
+
+Como você pode esperar que o governo invista em outros modais de transporte ou que aumente a oferta de combustíveis? O governo hoje opera em déficit. Isso significa que, apesar de arrecadar R$ 2 trilhões por ano, ele consegue gastar mais do que isso. Ele aumenta a dívida pública. Pergunte-se como o governo gasta esse dinheiro.
+
+É preciso tirar de algum lugar para resolver problemas urgentes. Vai tirar de que lugar? Vai aumentar mais os impostos? Você quer pagar mais impostos e continuar delegando para o governo a solução dos problemas? Se sim, então você é parte do problema.

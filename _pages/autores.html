@@ -1,0 +1,48 @@
+---
+layout: page
+title: "Autores"
+permalink: /autor/
+background: '/img/bg-index.webp'
+---
+
+<div class="row">
+    <!-- x represents middle index of tags array  -->
+    <!-- tags is a sorted array -->
+    {% assign x = site.categories | size | divided_by: 2 | plus: 1 %}
+    {% assign categories = site.categories | sort %}
+
+    <div class="col-md">
+      <ul>
+        {% for category in categories limit:x %}                   
+          <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="col-md">
+      <ul>
+        {% for category in categories offset:x %}         
+          <li><a href="#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    
+    {% assign x = nil %}
+    {% assign categories = nil %}
+</div>
+
+<span id='scroll-to-top' class="fa-stack fa-lg">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-arrow-up fa-stack-1x fa-inverse"></i>
+</span>
+
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+  <h3 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h3>
+  <hr style="margin-top: -20px; border-top: 1px solid #6c757d;">      
+  <ul style="list-style-type: none;">
+    {% for post in category[1] %}
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} &middot; {{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

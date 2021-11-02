@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Artigos"
+permalink: /artigos/
+background: '/img/bg-index.webp'
+---
+
+<ul style="list-style-type: none;">
+    {% for post in site.posts %}
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%d-%m-%Y" }} &middot; {{ post.title }} &middot; {{post.author}}</a></li>
+    {% endfor %}
+</ul>
+
+<span id='scroll-to-top' class="fa-stack fa-lg">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-arrow-up fa-stack-1x fa-inverse"></i>
+</span>

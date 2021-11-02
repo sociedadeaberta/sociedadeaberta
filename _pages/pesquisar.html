@@ -1,0 +1,51 @@
+---
+layout: page
+title: "Pesquisar"
+permalink: /pesquisar/
+background: '/img/bg-index.webp'
+---
+
+<style>
+  #search-demo-container {
+    max-width: 40em;
+    padding: 1em;
+    margin: 1em auto;
+    border: 1px solid lightgrey;
+  }
+  #search-input {
+    display: inline-block;
+    padding: .5em;
+    width: 100%;
+    font-size: 0.8em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+  }
+  ul#results-container {
+    margin-top: 10px;  
+  }
+
+</style>
+
+<div class="input-group rounded">
+  <input type="search" id="search-entrada" class="form-control rounded" placeholder="Digite..." aria-label="Search"
+    aria-describedby="search-addon" />  
+</div>
+<ul id="results-container"></ul>
+
+<script src="/assets/search-script.min.js"></script>
+
+<script>
+    window.simpleJekyllSearch = new SimpleJekyllSearch({
+      searchInput: document.getElementById('search-entrada'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ site.baseurl }}/search.json',
+      searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+      noResultsText: 'Nenhum resultado encontrado',
+      limit: 15,
+      fuzzy: false,
+      exclude: ['Welcome']
+    })
+</script>
+
+  

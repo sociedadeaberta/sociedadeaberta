@@ -1,0 +1,40 @@
+---
+author: "Walter E. Williams"
+title-original: "Rule of Law versus Legislative Orders"
+link: "https://fee.org/articles/rule-of-law-versus-legislative-orders/"
+translator: "Robson da Silva"
+layout: post
+title: "Império da Lei versus Decretos Legislativos"
+date: "2018-05-30"
+categories:   
+  - "Walter E. Williams"
+tags: 
+  - "hayek"
+  - "imperio-da-lei"
+---
+
+O dicionário _Webster_ define a lei como todas as regras de conduta estabelecidas e executadas pela autoridade, legislação ou costume de uma dada comunidade ou grupo. Por que existem leis? A resposta mais aparente é, onde não houver uma lei específica, alguns não iriam se comportar de acordo com a lei em questão. Mas isto é inteiramente verdade?
+
+Por exemplo, onde não há lei em relação a qual lado da estrada devemos dirigir, imagina-se que o autointeresse iria levar a uma ordem espontânea de um costume de dirigir, digamos, no lado direito da estrada – ao menos nos Estados Unidos. Mas provavelmente haveria alguns que dirigiriam no lado esquerdo; portanto, uma lei, com penalidades associadas, é necessária para impor cooperação entre os possíveis discordantes.
+
+Existem outros padrões de conduta humana não codificados em lei, tais como os homens retirarem seus chapéus em igrejas cristãs e vestirem chapéus em sinagogas, comer com utensílios ao invés das mãos, e dar um cumprimento apropriado. É tentador banalizar esses padrões sugerindo que eles não são tão importantes como leis obrigando qual lado da estrada devemos dirigir. Mas isto não é verdade. Um comentário desagradável, uma indelicadeza ou um sinal de desrespeito que não for desculpado pode gerar um conflito violento.
+
+Quais devem ser as características das leis em uma sociedade livre? Pense um pouco nas regras do beisebol. Não por culpa própria, alguns jogadores batem menos _home runs_ do que outros. Para trazer justiça ao beisebol, que tal uma lei exigindo que os arremessadores arremessem bolas fáceis para rebatedores ruins, ou que transforme uma rebatida dupla em um _home run_? Alguns arremessadores não são tão bons quanto outros. Que tal permitir que eles arremessem mais próximo do rebatedor? Melhor ainda, podemos considerar um _strike_ para cada arremessador ruim em qualquer situação. No interesse da justiça ao beisebol, podemos fazer outras regras especiais para nivelar os jogadores em campo entre jogadores jovens e velhos, brancos e negros, velozes e lentos.
+
+Você diz, "_Williams, você só pode estar brincando! Pode imaginar o conflito que surgiria: jogadores fazendo lobby aos juízes, juízes decidindo quem consegue qual favor, processos, sem falar nas brigas?_". Você está totalmente certo. A razão pela qual os jogos de beisebol terminam pacificamente, e jogadores e donos de times geralmente estão satisfeitos com o processo, independentemente de ganhando ou perdendo, é que as regras do beisebol são conhecidas com antecedência. Elas se aplicam a todos os jogadores. Elas são fixas, e os juízes não inventam regras durante o jogo. Em outras palavras, as regras do beisebol passam pelo teste da "abstração". Elas não têm em vista nenhum resultado específico em termos de vencedores e perdedores. As regras do beisebol apenas criam uma estrutura em que o jogo é jogado.
+
+As leis, ou regras que governam uma sociedade livre, devem ter características semelhantes. Deve haver um "império da lei". O império da lei significa leis que são certas e conhecidas com antecedência. As leis não têm em vista um resultado específico, exceto permitirem que as pessoas persigam pacificamente seus próprios objetivos. Finalmente, e mais importante, as leis são igualmente aplicadas a todos, incluindo os funcionários do governo.
+
+Sir Henry Maine, provavelmente o maior historiador legal, disse, "_O maior movimento das sociedades progressistas tem sido, até agora, um movimento do status para o contrato_". Em sociedades não progressistas, o império da lei é ausente. As leis não são gerais. Elas são aplicadas de acordo com o _status_ da pessoa ou se ela pertence a um grupo. Há regra, não por _legis_, a palavra latina para lei, mas para _privilegium_, o termo latino para lei privada. O que está faltando é o princípio resumido pelo jurista inglês A. V. Dicey: "_Todo homem, não importando sua categoria ou condição, está sujeito à lei ordinária do reino e passível à jurisdição dos tribunais ordinários_".
+
+Considere o caso de uma pessoa presa e acusada de estupro. Seu _status_ deve – seja ele um senador, professor ou cidadão comum – desempenhar um papel no julgamento do crime e na punição subsequente? Aposto que o cidadão comum responderia que não.
+
+Praticamente toda lei que o Congresso decreta viola todas as exigências do império da lei. Como determinamos as violações do império da lei? É fácil. Veja como a lei é aplicada a cidadãos em particular em relação a todos os cidadãos. Veja se a lei exclui funcionários públicos de seu escopo. Veja se a lei é conhecida com antecedência. Veja se a lei toma ação contra uma pessoa que não fez nenhuma ação agressiva contra outra. Se você conduzir este teste, irá concluir que é difícil encontrar muitos decretos do Congresso que respeitam os princípios do império da lei.
+
+Um regime de império da lei exigiria que jogássemos fora o _Internal Revenue Code_ (N.R.: Código Tributário dos Estados Unidos)  completamente. Qual a justificativa para as leis tributárias tratarem os cidadãos de forma diferente porque eles têm maior renda, menos crianças ou renda de ganhos de capital ao invés de salários? Tratamento igual, no mínimo, exigiria que o Congresso descobrisse o custo das funções constitucionalmente autorizadas do governo federal, dividida pela população adulta, e nos mandasse um cheque por nossa parte. Você diz, "_E sobre o princípio de pagar o que puder?_"_._ Este é apenas um conceito de política da inveja que se revelaria como um total absurdo se aplicada a qualquer outra coisa, como à gasolina ou à comida.
+
+Que os americanos tem se tornado governados por decretos e privilégios especiais ajuda a explicar todos os lobistas, dinheiro, e politicagem em Washington. Nós passamos de um governo com poderes limitados, como os fundadores vislumbraram, a um com poderes pavorosos. Portanto, ele paga às pessoas para gastar grandes quantidades de dinheiro para influenciar o Congresso a seu favor. A garantia de privilégios é precisamente o que a maioria dos cidadãos quer, apesar que possam discordar de quem consegue qual privilégio. A maioria dos cidadãos não tem ideia do que o império da lei significa. Achamos que significa qualquer coisa que o Congresso aprova e o presidente assina. Isso é uma tragédia.
+
+Costumes, tradições, maneiras e regras de etiqueta, não leis e regulações governamentais, são o que formam uma sociedade civilizada. Estas normas comportamentais, transmitidas por exemplos, oralmente e ensinos religiosos, representam um corpo de conhecimento destilado por anos de experiência, tentativa e erro. É a moral personificada nesses _não farás_: matar, roubar, trair e assim por diante. A importância destas normas comportamentais é que as próprias pessoas se comportam mesmo que ninguém esteja vigiando. Não há policiais e leis o suficiente para substituir a moral pessoal como meio de uma sociedade civilizada. Na melhor das hipóteses, a polícia e o sistema de justiça criminal são a última linha desesperada de defesa para uma sociedade civilizada. Nossa confiança exagerada em leis para regular o comportamento é uma medida de como não civilizados nos tornamos.
+
+Vinte e cinco anos atrás, durante uma conversa de jantar com o vencedor do Nobel Friedrich A. Hayek, perguntei se ele pudesse propor uma lei que ajudaria a restaurar, promover e preservar a liberdade. Hayek respondeu que a lei seria: o Congresso não deve aprovar nenhuma lei que não se aplique igualmente a todos os cidadãos. A sugestão de Hayek faria maravilhas incalculáveis na promoção das liberdades vislumbradas pelos fundadores. Mas estou apostando que a maioria dos americanos iria saudar a proposta de Hayek com desprezo depois de perceberem que significa que o Congresso não poderia favorecer ninguém.

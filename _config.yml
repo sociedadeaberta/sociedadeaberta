@@ -1,0 +1,64 @@
+title:              sociedade aberta
+email:
+description:        libertarianismo - livre mercado - liberdade - paz
+author:
+baseurl:
+url:
+
+# Social Profiles
+twitter_username:   sdadeaberta
+github_username:    
+facebook_username:  sdadeaberta
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+
+permalink:         /autor/:slugified_categories/:title:output_ext
+include:
+  - _pages
+plugins:  
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/pagina/:num/'
+  title: ':title &middot; :num de :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+#jekyll-archives:
+#  enabled: 
+#    - categories
+#  layout: archive    
+#  permalinks:    
+#    category: '/arquivo/:name/'
+
+
+#true = gerar páginas de cada autor
+autopages:
+  enabled: true
+  collections:
+    enabled: false
+  tags:
+    enabled: false
+  
+  categories:   
+    layouts: 
+      - 'autor.html'    
+    title: ":cat"
+    permalink: '/autor/:cat'
+    silent: false
+    slugify:
+      mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
+      case: false

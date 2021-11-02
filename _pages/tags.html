@@ -1,0 +1,49 @@
+---
+layout: page
+title: "Tags"
+permalink: /tags/
+background: '/img/bg-index.webp'
+---
+
+<br>
+<div class="row">
+    <!-- x represents middle index of tags array  -->
+    <!-- tags is a sorted array -->
+    {% assign x = site.tags | size | divided_by: 2 | plus: 1 %}
+    {% assign tags = site.tags | sort %}
+
+    <div class="col-md">
+      <ul>
+        {% for tag in tags limit:x %}                   
+          <li><a href="#{{ tag[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ tag[0] | camelcase }} ({{ tag[1].size }})</a></li>        
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="col-md">
+      <ul>
+        {% for tag in tags offset:x %}         
+          <li><a href="#{{ tag[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ tag[0] | camelcase }} ({{ tag[1].size }})</a></li>         
+        {% endfor %}
+      </ul>
+    </div>
+    
+    {% assign x = nil %}
+    {% assign tags = nil %}
+</div>
+
+<span id='scroll-to-top' class="fa-stack fa-lg">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-arrow-up fa-stack-1x fa-inverse"></i>
+</span>
+
+{% for tag in site.tags %}
+  <h3 id="{{ tag[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ tag[0] | camelcase }}</h3>      
+  <ul style="list-style-type: none;">
+    {% for post in tag[1] %}
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+      

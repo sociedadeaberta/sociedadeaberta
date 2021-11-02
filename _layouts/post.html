@@ -1,0 +1,55 @@
+---
+layout: default
+pagination: 
+  enabled: true
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">            
+            <h1 class="text-center">{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <h2 class="subheading">{{ page.subtitle }}</h2>
+            {% endif %}
+            <div class="meta">              
+              <h2 class="post-subtitle text-center"><a href="{{ site.url }}/autor/{{ page.author | downcase | url_escape | strip | replace: ' ', '-' }}">{{ page.author }}</a></h2>
+            </div>
+            <div class="submeta text-right">
+              {% if page.title-original %}  
+              <a href="{{ page.link }}">{{ page.title-original }} </a>
+              {% endif %}
+              {% if page.translator %}
+              &middot; Tradução de {{ page.translator }}
+              {% endif %}
+              <br /><time datetime="{{ page.date | date_to_xmlschema }}">{% include data.html date=page.date %} </time>
+              &middot; {% include read_time.html content=page.content %}
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">      
+
+        {{ content }}
+       
+      </div>
+    </div>    
+  </div>
+
+<span id='scroll-to-top' class="fa-stack fa-lg">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-arrow-up fa-stack-1x fa-inverse"></i>
+</span>  

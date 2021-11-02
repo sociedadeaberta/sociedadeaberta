@@ -1,0 +1,11 @@
+@import "./variables/colors.scss";
+@import "./variables/typography.scss";
+
+$font-size-base:    1rem !default; // Assumes the browser default, typically `16px`
+
+$headings-font-weight:  600;
+$headings-line-height:  1.5;
+
+$h1-font-size:  $font-size-base * 1.5 !default;
+$h2-font-size:  $font-size-base * 1.25 !default;
+$h3-font-size:  $font-size-base * 1.25 !default;
