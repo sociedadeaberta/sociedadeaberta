@@ -6,7 +6,6 @@ link: "https://fee.org/articles/lord-acton-political-power-corrupts/"
 author: "Jim Powell"
 date: "2018-11-08"
 categories: 
-  - "Biografias"  
   - "Jim Powell"
 tags: 
   - "liberalismo"

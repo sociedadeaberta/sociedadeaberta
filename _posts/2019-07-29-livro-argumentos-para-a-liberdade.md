@@ -7,8 +7,7 @@ layout: post
 title: "Livro: Argumentos para a Liberdade"
 date: "2019-07-29"
 categories: 
-  - "Aaron Ross Powell"
-  - "Livros"
+  - "Aaron Ross Powell"  
 tags: 
   - "etica"
   - "libertarianismo"

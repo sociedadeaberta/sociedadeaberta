@@ -40,7 +40,14 @@ Como um exemplo mais moderno e amplamente reconhecido, considere a “regra da e
 
 Uma estrutura muito mais séria, que chegou a uma imensa quantidade de discussão nos círculos matemáticos, sociais-científicos e filosóficos durante quase um século, é o dilema do agora familiar prisioneiro. Nos casos de duas pessoas que são a norma em discussão, este pequeno gráfico esquematiza a ideia (deixe A e B serem as duas partes, e os números ordenam, por suas próprias preferências, os resultados para aquele par de escolhas) . Então (a) cada um de nós escolhe uma escolha entre duas alternativas, x e y, e o que acontece com cada um de nós depende do que cada um de nós escolhe; (b) se nós dois escolhermos a alternativa x, cada um terá seu segundo melhor resultado; se nós dois escolhermos y, ambos obteremos o terceiro melhor resultado, o que é muito pior para cada um. (c) Mas se eu escolho x e você y, eu pego o meu melhor e você o seu pior; e se você escolher x e eu escolher y, então vice-versa. Assumimos que somos ambos agentes livres, escolhendo como desejarmos. O que fazemos?
 
-![](http://sociedadeaberta.com.br/wp-content/uploads/2019/03/prisioneiro.png)
+{% 
+  include image.html
+  align="center"
+  url="/img/content/2019-03-22-1"
+  ext="png"
+  width="50%"
+  caption=""
+%}
 
 O problema é que, quando escolhemos diferentemente, um ganha muito - às custas do outro. Então escolhemos o mesmo - mas qual? Na ausência de qualquer tipo de confiança ou consideração, cada um é impelido a escolher a opção "mais segura", y: isso evita o pior resultado, que seria o quarto - mas o resultado para nós dois, no caso o terceiro, é pior do que o segundo, o que poderíamos ter se pudéssemos confiar no outro para escolher esse caminho. Esse é o dilema: cada um vai para o melhor e, ao fazê-lo, acaba mal - de uma forma que poderia ter sido evitada.
 

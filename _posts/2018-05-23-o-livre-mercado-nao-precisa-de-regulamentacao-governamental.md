@@ -16,7 +16,14 @@ A maioria das pessoas acredita que o governo deve regular o mercado. A única al
 
 Aproveitando-se da noção comum de que qualquer coisa desregulada (desordenada) é ruim, apoiadores da regulamentação do governo argumentam que um mercado desregulado deve ser abominado. Essa visão é bem demonstrada pelas estátuas gêmeas do prédio da _Federal Trade Commission_ em Washington, DC. (Uma está no lado da Constitution Ave., a outra no lado da Pennsylvania Ave.). As estátuas, que venceram um concurso de arte patrocinado pelo governo dos EUA durante o _New Deal_, representam um homem usando toda sua força para impedir que um cavalo selvagem entrasse em frenesi.
 
-![](http://sociedadeaberta.com.br/wp-content/uploads/2016/07/DSC08260-300x200.jpg)
+{% 
+  include image.html
+  align="center"
+  url="/img/content/2018-05-23-1"
+  ext="jpg"
+  width="80%"
+  caption=""
+%}
 
 O título? "O homem controlando o comércio"
 

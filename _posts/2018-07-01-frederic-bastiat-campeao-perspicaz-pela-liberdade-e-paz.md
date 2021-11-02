@@ -7,7 +7,6 @@ layout: post
 title: "Frédéric Bastiat, campeão perspicaz pela Liberdade e Paz"
 date: "2018-07-01"
 categories:   
-  - "Biografias"  
   - "Jim Powell"
 tags: 
   - "bastiat"

@@ -6,8 +6,7 @@ translator: "Saulo Henrique"
 layout: post
 title: "Vivien Kellems: Por favor, processe-me!"
 date: "2018-06-04"
-categories:
-  - "Biografias"
+categories:  
   - "Lawrence W. Reed"
 tags: 
   - "imposto-de-renda"

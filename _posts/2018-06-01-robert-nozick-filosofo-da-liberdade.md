@@ -6,8 +6,7 @@ translator: "Instituto Ordem Livre"
 layout: post
 title: "Robert Nozick, filósofo da liberdade"
 date: "2018-06-01"
-categories:
-  - "Biografias"
+categories:  
   - "Roderick Long"
 tags: 
   - "anarquia"
