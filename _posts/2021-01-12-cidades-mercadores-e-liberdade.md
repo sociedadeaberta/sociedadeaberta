@@ -4,7 +4,7 @@ title: "Cidades, Mercadores e Liberdade"
 author: "Sávio Coelho"
 date: "2021-01-12"
 background: '/img/bg/2021-01-12.webp'
-image: '/img/bg/2021-01-12.webp'
+image: '/img/logo.png'
 categories: 
   - "Sávio Coelho"
 tags: 

@@ -1,6 +1,6 @@
 title:              sociedade aberta
 email:
-description:        libertarianismo - livre mercado - liberdade - paz
+description:        livre mercado - liberdade - paz
 author:
 baseurl:            
 url:                
@@ -16,6 +16,11 @@ linkedin_username:
 twitter:
   username: sdadeaberta
   card: summary
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/logo.png
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-147987690-1 # out your google-analytics code
