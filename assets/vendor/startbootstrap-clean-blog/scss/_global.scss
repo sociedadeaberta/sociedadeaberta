@@ -65,6 +65,10 @@ a {
     }
 }
 
+.post-subtitle {
+    font-weight: 300;
+}
+
 .navbar-expand-lg {
     margin-left: -40px;
 }
@@ -128,7 +132,8 @@ blockquote {
 }
 
 .submeta {
-    font-size: 14px;
+    font-family: monospace;
+    font-size: 12px;
     font-weight: 300;
     margin-top: 20px;
     a {
@@ -272,4 +277,10 @@ figure {
 
 .hide {
     display: none;    
+}
+
+.desktop {
+    @media only screen and (max-width: 992px) {
+        display: none;
+    }
 }

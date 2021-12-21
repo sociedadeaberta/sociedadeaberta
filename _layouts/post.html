@@ -22,7 +22,7 @@ pagination:
             <div class="meta">              
               <h2 class="post-subtitle text-center"><a href="{{ site.url }}/autor/{{ page.author | downcase | url_escape | strip | replace: ' ', '-' }}">{{ page.author }}</a></h2>
             </div>
-            <div class="submeta text-right">
+            <div class="desktop submeta text-right">
               {% if page.title-original %}  
               <a href="{{ page.link }}">{{ page.title-original }} </a>
               {% endif %}

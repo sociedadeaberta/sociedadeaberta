@@ -57,7 +57,7 @@ pagination:
 
 #true = gerar páginas de cada autor
 autopages:
-  enabled: false
+  enabled: true
   collections:
     enabled: false
   tags:
