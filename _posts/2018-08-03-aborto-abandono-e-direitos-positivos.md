@@ -17,21 +17,25 @@ tags:
 
 Vamos imaginar que aceitamos a três seguintes proposições:
 
-1. Toda pessoa tem um direito de não ser tratada como um mero meio para os fins de outras pessoas.[^1]
-2. Uma mulher que voluntariamente fica grávida, mas posteriormente muda de ideia, tem o direito de abortar seu nascituro.
-3. Uma mulher que voluntariamente dá à luz uma criança, mas posteriormente muda de ideia, não tem o direito de simplesmente abandonar sua criança, mas deve cuidar dela até que possa arranjar uma pessoa tutora substituta.
+(1) Toda pessoa tem um direito de não ser tratada como um mero meio para os fins de outras pessoas.[^1]
+
+(2) Uma mulher que voluntariamente fica grávida, mas posteriormente muda de ideia, tem o direito de abortar seu nascituro.
+
+(3) Uma mulher que voluntariamente dá à luz uma criança, mas posteriormente muda de ideia, não tem o direito de simplesmente abandonar sua criança, mas deve cuidar dela até que possa arranjar uma pessoa tutora substituta.
 
 Isto é particularmente fácil para eu imaginar, uma vez que eu de fato as aceito. Nem todo mundo estará assim inclinado, pois as proposições são dificilmente incontroversas. Não obstante, uma vez que muitas pessoas as aceitam, vale a pena descobrir se elas são compatíveis; pois existem boas razões _prima facie_ para acreditar que há, se não uma inconsistência lógica, então pelo menos uma séria tensão entre estas três proposições - uma tensão que poderia nos fazer duvidar da possibilidade de uma perspectiva moral plausível que pudesse acomodar todas as três. Defensores das três proposições, desta forma, devem ter um interesse em mostrar que elas são compatíveis; e oponentes de algumas ou de todas as proposições poderiam ter um interesse em mostrar que elas são incompatíveis.
 
-Minha primeira meta neste ensaio, então, é explicar por que as três proposições poderiam parecer incompatíveis, e argumentar que, não obstante, há uma visão moral plausível que as reconcilia.[^2] Minha segunda e mais ampla meta é dar alguns passos preliminares em direção à resposta para a pergunta: Sob quais circunstâncias é legítimo forçar alguém a agir em nome do bem-estar de outras pessoas? Em outras palavras, minha segunda meta é esboçar uma teoria de direitos positivos, e assim determinar os limites do altruísmo compulsório. Estas duas metas estão conectadas: a primeira meta depende da segunda porque minha solução para a aparente incompatibilidade das três proposições depende das minhas visões sobre direitos positivos; e, reciprocamente, minha segunda meta depende da primeira porque eu considero como uma restrição desejável sobre qualquer teoria de direitos positivos que ela dê (o que eu considero como) a "resposta correta" às questões levantadas pelas três proposições. Além disso, ao tratar das questões do aborto e do abandono, eu espero dar algum conteúdo para minha teoria de direitos positivos ao mostrar como ela trata dilemas morais importantes. A pergunta "Quanto podemos pedir que uma mulher faça por sua criança nascitura ou recém nascida?" é um caso especial da pergunta mais ampla "Quanto, em geral, podemos pedir que uma pessoa faça por outra?" Uma tentativa de responder à questão geral deveria ajudar a iluminar a específica, e vice-versa; e nossas respostas a estas duas perguntas devem ser harmonizadas uma com a outra, se quisermos ter qualquer confiança em ambas. Daí o foco dual deste ensaio.
+Minha primeira meta neste ensaio, então, é explicar por que as três proposições poderiam parecer incompatíveis, e argumentar que, não obstante, há uma visão moral plausível que as reconcilia.[^2] Minha segunda e mais ampla meta é dar alguns passos preliminares em direção à resposta para a pergunta: _Sob quais circunstâncias é legítimo forçar alguém a agir em nome do bem-estar de outras pessoas?_ Em outras palavras, minha segunda meta é esboçar uma teoria de direitos positivos, e assim determinar os limites do altruísmo compulsório. Estas duas metas estão conectadas: a primeira meta depende da segunda porque minha solução para a aparente incompatibilidade das três proposições depende das minhas visões sobre direitos positivos; e, reciprocamente, minha segunda meta depende da primeira porque eu considero como uma restrição desejável sobre qualquer teoria de direitos positivos que ela dê (o que eu considero como) a "resposta correta" às questões levantadas pelas três proposições. Além disso, ao tratar das questões do aborto e do abandono, eu espero dar algum conteúdo para minha teoria de direitos positivos ao mostrar como ela trata dilemas morais importantes. A pergunta "Quanto podemos pedir que uma mulher faça por sua criança nascitura ou recém nascida?" é um caso especial da pergunta mais ampla "Quanto, em geral, podemos pedir que uma pessoa faça por outra?" Uma tentativa de responder à questão geral deveria ajudar a iluminar a específica, e vice-versa; e nossas respostas a estas duas perguntas devem ser harmonizadas uma com a outra, se quisermos ter qualquer confiança em ambas. Daí o foco dual deste ensaio.
 
 # II. Direitos: Algumas Preliminares
 
 As três proposições em consideração empregam a linguagem dos direitos. Devemos deixar claro, então, sobre o que estamos falando quando atribuímos (ou negamos) direitos às pessoas. Eu presumo que ter um direito tipicamente envolve um ou mais dos seguintes componentes:
 
-1. O valor moral, ou pelo menos a permissibilidade moral, de se fazer/ter aquilo ao que se tem direito.
-2. A obrigação de outras pessoas de deixar/ajudar a se fazer/ter aquilo a que se tem direito.
-3. A legitimidade de forçar outras pessoas a deixar/ajudar a se fazer/ter aquilo a que se tem direito.
+(A) O valor moral, ou pelo menos a permissibilidade moral, de se fazer/ter aquilo ao que se tem direito.
+
+(B) A obrigação de outras pessoas de deixar/ajudar a se fazer/ter aquilo a que se tem direito.
+
+(C) A legitimidade de forçar outras pessoas a deixar/ajudar a se fazer/ter aquilo a que se tem direito.
 
 Destes componentes é possível construir sete variedades distintas de direitos: direitos-A, direitos-B, direitos-C, direitos-AB, direitos-AC, direitos-BC e direitos-ABC.[^3]
 
@@ -39,8 +43,9 @@ De que tipo são os direito em questão em nossas três proposições? Eu creio 
 
 Eu ter um direito (isto é, um direito político ou BC), então, envolve dois componentes: a obrigação de outras pessoas de me tratar de uma certa maneira, e a legitimidade (permissibilidade moral) de forçá-las a me tratar dessa maneira. Chamemos uma obrigação de executável apenas no caso em que seria legítimo forçar a pessoa portadora da obrigação a agir de acordo com ela.[^6] Podemos, desta forma, definir a noção (relevante) de direito como se segue:
 
-4. S tem um direito contra O de ser tratado de maneira M se e somente se O tem uma obrigação executável de tratar S de maneira M.
-5. S tem um direito (_simpliciter_) de ser tratado de maneira M se e somente se, para todo O, S tem um direito contra O de ser tratado de maneira M.
+(4) S tem um direito contra O de ser tratado de maneira M se e somente se O tem uma obrigação executável de tratar S de maneira M.
+
+(5) S tem um direito (_simpliciter_) de ser tratado de maneira M se e somente se, para todo O, S tem um direito contra O de ser tratado de maneira M.
 
 Assim definido, um direito é um direito a ser tratado de uma certa maneira; o objeto do direito é um certo tipo de comportamento por parte de outras pessoas.
 
@@ -52,13 +57,15 @@ Além disso, os direitos de uma pessoa implicam na ausência de certos direitos 
 
 Direito (isto é, direitos-BC) são comumente divididos em direitos positivos e negativos. Uma maneira natural de estabelecer a distinção poderia se parecer com isso: Um direito positivo é um cuja obrigação correlata é a obrigação de tomar alguma medida positiva em nome de quem porta o direito; um direito negativo, por outro lado, é um cuja obrigação correlata é meramente a obrigação de se abster de interferir de alguma maneira com quem porta o direito. Direitos são positivos ou negativos na medida em que envolvem obrigações positivas ou negativas por parte de outras pessoas, em que os objetos das obrigações são fazer e permitir, respectivamente.[^9]
 
-6. O direito de S de ser tratado da maneira M é um direito positivo se e somente se a maneira M envolve tomar medidas positivas em nome de S.
-7. O direito de S de ser tratado de maneira M é um direito negativo se e somente se a maneira M não envolver tomar medidas positivas em nome de S.
+(6) O direito de S de ser tratado da maneira M é um direito positivo se e somente se a maneira M envolve tomar medidas positivas em nome de S.
+
+(7) O direito de S de ser tratado de maneira M é um direito negativo se e somente se a maneira M não envolver tomar medidas positivas em nome de S.
 
 Ainda assim, eu suspeito que (6) e (7) não são bem sucedidas em capturar nossas intuições sobre direitos positivos e negativos.[^10] Suponha que eu afirme que eu tenho um direito a cortar seu braço fora - pelo que eu quero dizer que você tem uma obrigação executável de me deixar cortar seu braço fora. Pelas definições (6) e (7), o direito que eu estou revindicando é um direito negativo, não um direito positivo. Mas isto parece estranho: certamente o ponto da distinção é que direitos positivos vão além do mero direito de ser deixado em paz em seu espaço pessoal, por assim dizer. Direitos negativos constroem cercas em volta das pessoas; direitos positivos derrubam cercas. Quando eu reclamo o direito de cortar seu braço, o direito que eu estou reclamando é mais plausivelmente pensado como um direito positivo, que quebra cercas, em vez de como um direito negativo, construtor de cercas. Eu sugiro, então, que as definições (6) e (7) sejam substituídas por (8) e (9), que fazem um trabalho melhor em capturar as instuições por trás da distinção positivo/negativo:
 
-8. O direito de S de ser tratado da maneira M é um direito positivo se e somente se (a) a maneira M envolve tomar alguma medida positiva em nome de S, ou (b) a maneira M envolve deixar-se ser usado por S.
-9. O direito de S de ser tratado da maneira M é um direito negativo se e somente se (a) a maneira M não envolver tomar alguma medida positiva em nome de S, e (b) a maneira M não envolve deixar-se ser usado por S.
+(8) O direito de S de ser tratado da maneira M é um direito positivo se e somente se (a) a maneira M envolve tomar alguma medida positiva em nome de S, ou (b) a maneira M envolve deixar-se ser usado por S.
+
+(9) O direito de S de ser tratado da maneira M é um direito negativo se e somente se (a) a maneira M não envolver tomar alguma medida positiva em nome de S, e (b) a maneira M não envolve deixar-se ser usado por S.
 
 Nota que (8) é uma disjunção, enquanto (9) é uma conjunção. Com estas preliminares fora do caminho, voltemos ao cerne de nosso problema.
 
@@ -78,8 +85,9 @@ O direito de não ser atropelado é uma direito negativo por si só. Atropelar a
 
 O direito de Roscoe contra Frieda de não ser atropelado gerou, nas circunstâncias, uma direito adicional contra ela, de que ela vire o volante de uma certa maneira. O primeiro direito é um direito negativo, permitido pela proposição (1); o segundo direito é um direito positivo, mas uma vez que se segue de um direito negativo endossado por (1), parece que ele também é endossado por (1). Chamemos tal direito de um direito positivo derivado, em contraste com um direito positivo básico.
 
-10. Um direito positivo derivado é um direito positivo que é gerado pela exigência de algum(ns) direito(s) negativo(s).
-11. Um direito positivo básico é um direito que não é derivado.
+(10) Um direito positivo derivado é um direito positivo que é gerado pela exigência de algum(ns) direito(s) negativo(s).
+
+(11) Um direito positivo básico é um direito que não é derivado.
 
 (1) elimina todos os direitos positivos derivados? Se sim, então (1) é simplesmente incoerente. Pois se todas as pessoas têm um direito contra todas as outras as pessoas a não serem tratadas como meros meios, então, pela mesma razão, todas as pessoas têm uma obrigação executável de tomar quaisquer passos positivos que sejam necessários para evitar tratar as outras como meros meios. Se o fim é obrigatório, os meios para esse fim são obrigatórios também, Se forçar as pessoas a tomar tais passos positivos conta como tratá-las como meros meios, então (1) não pode licenciar quaisquer direitos que sejam, positivos ou negativos.
 
@@ -87,8 +95,9 @@ Felizmente, não precisamos tirar essa conclusão. A aplicação de direitos pos
 
 O exemplo do barbeiro poderia sugerir uma maneira natural de fazer a distinção:
 
-12. S usa O como mero meio se e somente se S usa O como um meio sem o consentimento de O.
-13. S usa O como meio não-mero se e somente se S usa O como um meio com o consentimento de O.
+(12) S usa O como mero meio se e somente se S usa O como um meio sem o consentimento de O.
+
+(13) S usa O como meio não-mero se e somente se S usa O como um meio com o consentimento de O.
 
 De acordo com esta maneira de traçar a distinção, forçar o barbeiro, à mão armada, a cortar o meu cabelo seria uma violação de (1), ao passo que persuadi-lo (por exemplo, com ofertas de dinheiro) a cortar meu cabelo voluntariamente, não seria.
 
@@ -96,39 +105,43 @@ O problema com esta forma de traçar a distinção é que ela não faz o que que
 
 Creio que teremos uma chance melhor com a ideia que estamos tentando atingir se pensarmos em (1) como criando certos limites em torno das pessoas. Todas as ações que envolvem usar S como um meio (seja mero ou não) caem dentro do limite em torno de S; todas as ações que não envolvem usar S como um meio ficam fora do limite de S.
 
-14. A ação de S está dentro do limite de O se e somente se a ação de S envolve usar O como um meio (seja mero ou não) para os fins de outrem.[^14]
+(14) A ação de S está dentro do limite de O se e somente se a ação de S envolve usar O como um meio (seja mero ou não) para os fins de outrem.[^14]
 
 Agora, não podemos interpretar (1) como proibindo todas as ações que estão dentro do limite de outra pessoa, pois isso excluiria direitos positivos derivados. Nem podemos interpretar (1) como proibindo todas as ações que ficam dentro do limite de outra pessoa e são empreitadas sem o consentimento dessas pessoas; pois isso também excluiria direitos positivos derivados. Mas entre as ações que estão dentro do limite de outra pessoa, podemos traçar uma distinção entre aqueles que violam o limite e aqueles que meramente repelem a pessoa de seu próprio limite.
 
 Tracemos algumas distinções:
 
-15. S atravessa o limite de O se e somente se S realiza uma ação dentro do limite de O.
-16. S invade o limite de O se e somente se S atravessa o limite de O sem o consentimento de O.
-17. S viola o limite de O se e somente se (a) S invade o limite de O e (b) invadir o limite de O (dessa maneira) não é necessário para acabar com qualquer invasão de limites por parte de O.[^15]
+(15) S atravessa o limite de O se e somente se S realiza uma ação dentro do limite de O.
+
+(16) S invade o limite de O se e somente se S atravessa o limite de O sem o consentimento de O.
+
+(17) S viola o limite de O se e somente se (a) S invade o limite de O e (b) invadir o limite de O (dessa maneira) não é necessário para acabar com qualquer invasão de limites por parte de O.[^15]
 
 (Eu estarei usando "ação" de maneira ampla aqui, incluindo comportamentos voluntários tanto quanto involuntários.) Agora, violações de limites parecem ser uma caso claro de tratar outras pessoas como meros meios, e assim entrar em conflito com (1), sem sombra de dúvidas. Mas e as invasões de limites que não são violações de limites? É legítimo terminar a violação de limites de S invadindo o limite de S, por sua vez?
 
 O dilema aqui é análogo àquele no Mercador de Veneza de Shakespeare. Antonio deve a Shylock uma libra de sua carne, mas ele não deve nenhum sangue a Shylock; ainda assim, é claro que Shylock não pode reclamar sua libra da carne de Antonio sem tirar um pouco do sangue de Antonio também. Portia argumenta que uma vez que Antonio não deve nenhum sangue a Shylock, Shylock não tem qualquer direito de tirar o sangue de Antonio, e portanto não tem qualquer direito de tirar a libra de carne tampouco (uma vez que, embora ele tenha um direito à libra de carne, ele não pode exercer esse direito sem fazer algo ao qual ele não tem direito - a saber, tirar o sangue de Antonio). Shylock, por outro lado, argumenta que uma vez que Antonio deve a Shylock a libra de carne, Shylock tem o direito de tirá-la, e portanto tem o direito de tirar o sangue também (uma vez que se segue de algo ao qual Shylock tem um direito). Por analogia, poderíamos distinguir dois possíveis princípios para governar invasões de limites:
 
-- Princípio de Shylock: Se S viola o limite de O, O (ou agente de O) tem o direito de invadir o limite de S de qualquer maneira necessária para acabar com a violação de S do limite de O.
-- Princípio de Portia: O (ou agente de O) não tem qualquer direito de invadir o limite de S, mesmo que invadir o limite de S seja necessário para acabar com a violação de S do limite de O.
+- _Princípio de Shylock:_ Se S viola o limite de O, O (ou agente de O) tem o direito de invadir o limite de S de qualquer maneira necessária para acabar com a violação de S do limite de O.
+
+- _Princípio de Portia:_ O (ou agente de O) não tem qualquer direito de invadir o limite de S, mesmo que invadir o limite de S seja necessário para acabar com a violação de S do limite de O.
 
 O princípio de Portia está correto? Se sim, então não há quaisquer direitos derivados positivos. Mas vimos que ao aceitar (1), estamos comprometidos em aceitar a existência de direitos positivos derivados. Uma vez que estamos procurando por uma visão que acomode (1), devemos, portanto, rejeitar o Princípio de Portia.
 
 Deveríamos, então, aceitar o Princípio de Shylock? O Princípio de Shylock pode ser consistente com a proposição (1), mas certamente conflita com seu espírito. Eu tenho justificativa em matar você se essa for a única maneira de impedir você de violar meu limite de alguma forma trivial (por exemplo, pisando no meu pé)? Minha resposta parece desproporcional[^16] à seriedade da violação; e na medida em que o faça, eu poderia justificadamente ser levado a lhe tratar como um mero meio para minha conveniência, violando, assim, (1). Eu, portanto, sugiro que o seguinte princípio faz um trabalho melhor em capturar as intuições por trás de (1) do que ambos os Princípios de Portia e de Shylock:
 
-- Princípio da Proporção: Se S viola o limite de O, O (ou agente de O) tem o direito de invadir o limite de S de qualquer forma que seja necessária para acabar com a violação de S do limite de O, contanto que a invasão de O (ou agente de O) não seja desproporcional à seriedade da violação de S do limite de O.
+- _Princípio da Proporção:_ Se S viola o limite de O, O (ou agente de O) tem o direito de invadir o limite de S de qualquer forma que seja necessária para acabar com a violação de S do limite de O, contanto que a invasão de O (ou agente de O) não seja desproporcional à seriedade da violação de S do limite de O.
 
 E se aceitarmos o Princípio da Proporção, a maneira mais plausível de traçar a distinção entre mero/não-mero é como se segue:
 
-18. S usa O como um mero meio se e somente se ou (a) S viola o limite de O ou (b) S invade o limite de O e ou (b1) a invasão de S do limite de O não é necessária para acabar com qualquer invasão de limite injusta por parte de O, ou (b2) a invasão de S do limite de O é desproporcional à seriedade de qualquer invasão de limite injusta por parte de O.
-19. S usa O como um meio não-mero se e somente se (a) S atravessa o limite de O e (b) S não viola o limite de O e ou (c1) S não invade o limite de O ou (c2) S invade o limite de O e a invasão de S do limite de O é necessária para acabar com alguma invasão de limite injusta por parte de O e a invasão de S do limite de O não é desproporcional à seriedade da violação de limite de O.[^17]
+(18) S usa O como um mero meio se e somente se ou (a) S viola o limite de O ou (b) S invade o limite de O e ou (b1) a invasão de S do limite de O não é necessária para acabar com qualquer invasão de limite injusta por parte de O, ou (b2) a invasão de S do limite de O é desproporcional à seriedade de qualquer invasão de limite injusta por parte de O.
+
+(19) S usa O como um meio não-mero se e somente se (a) S atravessa o limite de O e (b) S não viola o limite de O e ou (c1) S não invade o limite de O ou (c2) S invade o limite de O e a invasão de S do limite de O é necessária para acabar com alguma invasão de limite injusta por parte de O e a invasão de S do limite de O não é desproporcional à seriedade da violação de limite de O.[^17]
 
 Uma "invasão de limites injusta" é uma que ou cai sob (18a) - é uma violação de limite de verdade - ou então cai sob (18b).
 
 Em suma, então, o Princípio de Shylock, o Princípio de Portia e o Princípio da Proporção representam as três posições mais plausíveis que poder-se-ía tomar ao tentar aplicar (1) à questão dos direitos positivos derivados, e o Princípio da Proporção captura o espírito de (1) mais fielmente do que qualquer dos outros princípios o faz. O Princípio da Proporção produz (18) e (19) como as interpretações mais plausíveis da noção de ser usado como um meio, já que essa noção aparece em (1). Assim, (1) pode agora ser representado como, ou tomado como sendo equivalente a:
 
-20. Toda pessoa tem o direito de não ter seus limites violados, e também de não ter seus limites invadidos ao menos que tal invasão seja necessária para acabar com alguma invasão de limites injusta dela, e que tal invasão também não seja desproporcional à seriedade de sua invasão de limites.[^18]
+(20) Toda pessoa tem o direito de não ter seus limites violados, e também de não ter seus limites invadidos ao menos que tal invasão seja necessária para acabar com alguma invasão de limites injusta dela, e que tal invasão também não seja desproporcional à seriedade de sua invasão de limites.[^18]
 
 Assim, o problema de reconciliar (2) e (3) com (1) é agora o problema de reconciliar (2) e (3) com (20).
 
@@ -152,7 +165,7 @@ Originalmente parecia que (1) nos comprometia em rejeitar todos os direitos posi
 
 Consideremos primeiro o caso do abandono. A proposição em questão é a seguinte:
 
-3. Uma mulher que voluntariamente dá à luz a uma criança, mas mais tarde muda de ideia, não tem o direito de simplesmente abandonar sua criança, mas deve cuidar dela até que possa arranjar uma pessoa tutora substituta.[^22]
+(3) Uma mulher que voluntariamente dá à luz a uma criança, mas mais tarde muda de ideia, não tem o direito de simplesmente abandonar sua criança, mas deve cuidar dela até que possa arranjar uma pessoa tutora substituta.[^22]
 
 A alegação de que uma mulher disposta não tem qualquer direito de abandono significa que não é o caso de que outras pessoas têm uma obrigação executável de deixá-la abandonar sua criança. Isto, por si só, é insuficiente para gerar na criança um direito, contra sua mãe, de não ser abandonada; a criança tem tal direito apenas se a mãe tiver um obrigação executável de não abandonar a criança. Agora, a ausência do direito de abandono significa que outras pessoas podem legitimamente usar a força para impedi-la de abandonar sua criança, que por sua vez significa que se ela tiver uma obrigação de não abandonar sua criança, essa obrigação é de fato executável. Mas isto não é o suficiente para mostrar que ela de fato tem tal obrigação. No entanto, a alegação adicional de que a mãe "deve" cuidar da criança até que uma pessoa tutora substituta seja encontrada realmente indica uma obrigação (quer seja executável ou não); e sua sujeição à coerção legítima por outrem, a este respeito, garante a exequibilidade desta obrigação. Portanto, (3) alega que a mulher tem uma obrigação executável de não abandonar sua criança; e isso investe a criança com um direito positivo, contra sua mãe, a não ser abandonada.
 
@@ -170,7 +183,7 @@ E os passageiros concordaram em serem levados lá sob o entendimento de que Stan
 
 A moral que podemos extrair da história de Stan é esta:
 
-21. Se S voluntariamente coloca O em uma situação em que a falha de S em tomar medidas positivas em nome de O resultará na morte de O, então tal falha por parte de S é matar, não meramente deixar-morrer.
+(21) Se S voluntariamente coloca O em uma situação em que a falha de S em tomar medidas positivas em nome de O resultará na morte de O, então tal falha por parte de S é matar, não meramente deixar-morrer.
 
 Agora, quando uma mulher voluntariamente dá à luz - isto é, voluntariamente traz uma criança para o mundo - ela está voluntariamente movendo a criança de uma situação em que a criança tem um sistema automático de suporte de vida para uma situação em que não tem.[^25] Em outras palavras, ela está tirando a criança de seu sistema de suporte de vida e colocando-a em uma situação em que depende de seu cuidado para a sobrevivência - assim como Stan, ao carregar seus passageiros para cima, estava tirando-os da segurança terrestre e colocando-os em uma situação em que dependiam de sua pilotagem para sobreviver. E, uma vez que ela está voluntariamente colocando sua criança em uma situação em que esta perecerá sem sua assistência positiva, se ela recusar essa assistência, sua ação - de acordo com (21) - seria matar em vez de deixar-morrer; isto é, seria um atravessamento de limites. Mas a criança não consentiu em ser assassinada; então se ela abandona sua criança, ela não estará meramente atravessando, mas invadindo o limite de sua criança. Uma vez que essa invasão não é necessária para neutralizar nenhuma invasão por parte da criança (a criança está meramente deitada ali, recém-nascida, sem invadir nada), sua invasão do limite de sua criança, de acordo com (17) conta como uma violação desse limite - e portanto é proibida por (20). Consequentemente, se uma mulher da à luz voluntariamente (onde a disponibilidade de um aborto seguro e barato pode estar entre os critérios de voluntariedade), ela tem uma obrigação executável[^26] de não abandonar sua criança até que ela possa encontrar uma pessoa tutora substituta para substituí-la - assim como Stan tem uma obrigação executável de garantir a segurança de seus passageiros antes de saltar.
 
@@ -190,7 +203,7 @@ Mas ao passo que este argumento serve para justificar a maioria dos abortos (e c
 
 Concedamos, então, que fetos tardios são pessoas. Se é assim, o que poderia justificar abortá-los? A resposta a essa questão vai depender da resposta a uma questão mais ampla: Quando, em geral, tem-se o direito de matar uma pessoa? Ou, mais especificamente, quando tem-se o direito de matar uma pessoa sem o consentimento dessa pessoa?[^32] Bem, matar uma pessoa sem o consentimento dessa pessoa é uma invasão de limites por definição (16), e a regra geral que governa invasões de limite foi estabelecida em (20):
 
-20. Toda pessoa tem o direito de não ter seus limites violados, e também de não ter seus limites invadidos ao menos que tal invasão seja necessária para acabar com alguma invasão de limites injusta dela, e que tal invasão também não seja desproporcional à seriedade de sua invasão de limites.
+(20) Toda pessoa tem o direito de não ter seus limites violados, e também de não ter seus limites invadidos ao menos que tal invasão seja necessária para acabar com alguma invasão de limites injusta dela, e que tal invasão também não seja desproporcional à seriedade de sua invasão de limites.
 
 Proibir o aborto é invadir o limite de uma mulher grávida. De acordo com (20), tal proibição será ilegítima ao menos que seja necessário neutralizar alguma invasão de limites injusta por parte dela. Ora, abortar um feto (tardio) certamente é uma invasão de limites; mas tais invasões não podem ser proibidas ao menos que sejam injustas, onde tal injustiça é ela mesma definida como a violação de (20). Portanto, para mostrar que uma mulher tem o direito de abortar um feto indesejado, será suficiente mostrar (a) que tal aborto não envolveria uma violação de limites; e (b) que tal aborto é necessário para acabar com alguma invasão de limites injusta por parte do feto, e também que não é desproporcional à seriedade da invasão de limites do feto. Mas através de (17), (b) implica em (a). Então tudo que temos que mostrar é (b) que abortar um feto indesejado é necessário para acabar com alguma invasão de limites injusta por parte do feto, e também que não é desproporcional à seriedade da invasão de limites por parte do feto.
 
@@ -216,9 +229,11 @@ Para responder esta questão, é útil considerar a analogia do estupro. Uma mul
 
 Consequentemente o aborto não é uma resposta desproporcional à seriedade da violação de limites que ele neutraliza. Meu argumento em favor dos direitos de aborto podem ser expressos, então pelo seguinte silogismo:
 
-1. Tem-se o direito de matar em autodefesa se a ameaça for suficientemente séria.
-2. A ameaça representada por um feto indesejado é suficientemente séria.
-3. Portanto, tem-se o direito de matar um feto indesejado em autodefesa.
+(a) Tem-se o direito de matar em autodefesa se a ameaça for suficientemente séria.
+
+(b) A ameaça representada por um feto indesejado é suficientemente séria.
+
+(c) Portanto, tem-se o direito de matar um feto indesejado em autodefesa.
 
 Minha analogia entre fetos e estupradores vai parecer a muitos oponentes dos direitos de aborto como absurda. Esta analogia não ignora uma diferença vitalmente importante - a saber, que o feto é inocente? O feto não escolheu violar os limites de sua mãe; a violação ocorreu como um resultado de processos naturais sobre os quais o feto, na natureza do caso, não poderia ter qualquer controle (uma vez que estes são os mesmos processos naturais que o produziram).
 
@@ -309,9 +324,11 @@ Mas vimos que a proibição de se tratar as pessoas como meros meios para os fin
 
 [^33]: Eu não estou argumentando que o aborto é moralmente permissível, mas apenas que uma mulher tem um direito-BC a abortar. A visão que estou defendendo é, assim, compatível com qualquer das três seguintes proposições:
 
-    1. Uma mulher tem uma obrigação moral de deixar um feto indesejado usar seu corpo como uma incubadora, mas seria ilegítimo impor essa obrigação (Eu assumo que essa seja a posição da maioria do público americano.)
-    2. Uma mulher não tem qualquer obrigação moral de deixar um feto indesejado usar seu corpo como uma incubadora, mas seria moralmente louvável (embora supérfluo) que ela o fizesse. (Esta é a posição de Thomson.)
-    3. Não apenas uma mulher não tem qualquer obrigação moral de deixar um feto indesejado usar seu corpo como uma incubadora, mas ela na verdade tem uma obrigação (uma não executável, claro) de não se sobrecarregar com o fardo físico e psicológico de uma gravidez e um parto indesejados - uma obrigação derivada de seu dever de cuidar de si mesma e de fazer o máximo de sua vida. (Esta é a posição à qual estou inclinado.)
+    (a) Uma mulher tem uma obrigação moral de deixar um feto indesejado usar seu corpo como uma incubadora, mas seria ilegítimo impor essa obrigação (Eu assumo que essa seja a posição da maioria do público americano.)
+
+    (b) Uma mulher não tem qualquer obrigação moral de deixar um feto indesejado usar seu corpo como uma incubadora, mas seria moralmente louvável (embora supérfluo) que ela o fizesse. (Esta é a posição de Thomson.)
+
+    (c) Não apenas uma mulher não tem qualquer obrigação moral de deixar um feto indesejado usar seu corpo como uma incubadora, mas ela na verdade tem uma obrigação (uma não executável, claro) de não se sobrecarregar com o fardo físico e psicológico de uma gravidez e um parto indesejados - uma obrigação derivada de seu dever de cuidar de si mesma e de fazer o máximo de sua vida. (Esta é a posição à qual estou inclinado.)
 
 [^34]: A autodefesa é um direito positivo derivado; meu direito positivo de repelir um assaltante deriva do meu direito negativo de não ser atacado por ele em primeiro lugar.
 
